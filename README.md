@@ -24,3 +24,8 @@ Apaixonado por tecnologia, educação e por tranformar ideias inovadoras em cód
 - [Dice Challange](https://dice-challange-sergiomanica.vercel.app/)<br/>
 - [Pizzeria landing page](https://pizzeria-landing-page-sergiomanica.vercel.app/)<br/>
 - [Interactive card form](https://interactive-card-form-git-master-sergiomanica.vercel.app/)<br/>
+- [Drum kit project](https://drum-kit-project-sergiomanica.vercel.app/)<br/>
+- [Opening animation](https://opening-animation.vercel.app/)<br/>
+
+
+
