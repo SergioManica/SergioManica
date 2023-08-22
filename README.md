@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Sergio Manica 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sergiomanica/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sergio-luiz-manica-junior-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-luiz-manica-junior-dev/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiomanica&show_icons=true&theme=tokyonight)
 
